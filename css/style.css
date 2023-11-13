@@ -31,13 +31,15 @@ body{
 }
 
 .firsText{
-    font-size: 25px;
+    /* font-size: 25px; */
+    font-size: 1.7rem;
     font-weight: 700;
     padding-block: 15px;
     color: var(--Dark-blue);
 }
 .SecondText {
-    font-size: 19px;
+    /* font-size: 19px; */
+    font-size: 1.2rem;
     padding-block-end: 20px;
     font-weight: 400;
     color: var(--Grayish-blue);
