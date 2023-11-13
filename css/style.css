@@ -10,7 +10,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Outfit', sans-serif;
-    font-size: 15px;
+    
 }
 
 body{
@@ -18,13 +18,13 @@ body{
 }
 
 .mainCard{
-    margin: 3rem auto;
-    width: 230px;
+    margin: 1rem auto;
+    width: 352px;
     border-radius: 10px;
     background-color:var(--White);
 }
 .qrCode, .qrCodeText, img{
-    width:205px;
+    width:327px;
     border-radius: 10px;
     padding-block-start: 5px;
     margin: auto;
@@ -32,12 +32,13 @@ body{
 }
 
 .firsText{
+    font-size: 23px;
     font-weight: 700;
     padding-block: 20px;
     color: var(--Dark-blue);
 }
 .SecondText {
-    font-size: 12px;
+    font-size: 19px;
     padding-block-end: 20px;
     font-weight: 400;
     color: var(--Grayish-blue);
